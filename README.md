@@ -1,2 +1,4 @@
-### Relevant Articles:
-- [A quick and practical example of Hexagonal Architecture in Java](http://www.baeldung.com/a-quick-and-practical-example-of-hexagonal-architecture-in-java/)
+# Hexagonal-Architecture-with-Java-Spring
+
+An example of Hexagonal Architecture Implmentation with Java & Spring. 
+A sample project for the Baeldung article.
